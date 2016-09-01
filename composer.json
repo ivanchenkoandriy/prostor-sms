@@ -1,0 +1,17 @@
+{
+    "name": "ivanchenkoandriy/prostor-sms",
+    "type": "library",
+    "description": "Send sms with prostor-sms.",
+    "authors": [
+        {
+            "name": "Andriy Ivanchenko",
+            "email": "ivanchenko.andriy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IA\\ProstorSMS\\": "src/"
+        }
+    }
+}
